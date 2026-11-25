@@ -24,3 +24,6 @@ Open `KPPbro.dproj` in Delphi (RAD Studio, Community Edition works) and run it. 
 ## Files
 - `KPP.pas` / `.dfm`: main form and logic
 - `KPPbro.dpr`: project entry point
+
+## License
+Released under the [MIT License](LICENSE).
