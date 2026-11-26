@@ -2,6 +2,8 @@
 
 A Delphi VCL app that loads a recorded ECG from a CSV file and plays it back page by page on a chart, like a simple ECG monitor.
 
+![MIT-BIH record 100 in a 10-second window](screenshot.png)
+
 ## Features
 - **Cari Data ECG** loads `.csv` ECG data sampled at **360 Hz**, the MIT-BIH Arrhythmia Database format exported from PhysioNet
 - Reads the total sample count from the last row and shows the recording length in seconds
